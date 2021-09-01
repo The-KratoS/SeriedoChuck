@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Serie Chuck</summary>
+        <summary>Serie Chuck Dublado</summary>
         <description>Seriado Chuck</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
