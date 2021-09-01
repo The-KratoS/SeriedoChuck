@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.video.seriechuck" name="Serie Chuck" version="3.0.0" provider-name="seriechuck"> 
+<addon id="plugin.video.seriechuck" name="Serie do Chuck" version="3.0.0" provider-name="seriechuck"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -17,7 +17,7 @@
 </extension>
 
 <extension point="xbmc.addon.metadata">
-    <summary lang="en">Serie Chuck</summary>
+    <summary lang="en">Serie do Chuck</summary>
     <description lang="en">Assistir Serie Chuck completa dublado</description>
      <disclaimer lang="en">Não fazemos parte da equipe do kodi, utilizamos links de terceiros, portanto não nos responsabilizamos por eles.</disclaimer>
 	 <platform>all</platform>
