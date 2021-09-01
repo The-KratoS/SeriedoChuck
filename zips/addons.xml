@@ -1,5 +1,5 @@
 <addons>
-<addon id="plugin.video.seriechuck" name="Serie Chuck" version="1.0.0" provider-name="seriechuck"> 
+<addon id="plugin.video.seriechuck" name="Serie Chuck" version="3.0.0" provider-name="seriechuck"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
