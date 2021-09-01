@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.SeriedoChuck" name="Serie do Chuck" version="1.0" provider-name="TheKratoS">
+<?xml version="3.0.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.SeriedoChuck" name="Serie do Chuck" version="3.0.0" provider-name="TheKratoS">
     <extension point="xbmc.addon.repository" name="Nome Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/The-KratoS/SeriedoChuck/master/zips/addons.xml</info>
